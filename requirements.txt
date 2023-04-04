@@ -1,4 +1,7 @@
 pandas
 numpy
 opencv-python
--e.
+seaborn
+matplotlib
+scikit-learn
+# -e.
